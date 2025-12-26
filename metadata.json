@@ -1,0 +1,8 @@
+{
+  "name": "Copy of TweakAI – Unlimited AI Creative Suite",
+  "description": "A high-end AI platform featuring cinematic video generation, high-fidelity image creation, and realistic voice synthesis using the latest Gemini models.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
